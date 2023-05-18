@@ -1,6 +1,6 @@
 # ExtendableTableView
 
-In this we have 2 foldes expandable
+In this we have expandable table with data manupulation
 
 
 # Screen Shot
