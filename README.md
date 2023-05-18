@@ -1,6 +1,8 @@
 # ExtendableTableView
 
 In this we have expandable table with data manupulation
+ 1. While clicking opens the cells
+  
 
 
 # Screen Shot
